@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "nnathanielMTucker.github.io/static/css/main.bfff7fc3.chunk.css",
-    "main.js": "nnathanielMTucker.github.io/static/js/main.89014383.chunk.js",
-    "main.js.map": "nnathanielMTucker.github.io/static/js/main.89014383.chunk.js.map",
-    "runtime-main.js": "nnathanielMTucker.github.io/static/js/runtime-main.a165309c.js",
-    "runtime-main.js.map": "nnathanielMTucker.github.io/static/js/runtime-main.a165309c.js.map",
-    "static/js/2.a77601b0.chunk.js": "nnathanielMTucker.github.io/static/js/2.a77601b0.chunk.js",
-    "static/js/2.a77601b0.chunk.js.map": "nnathanielMTucker.github.io/static/js/2.a77601b0.chunk.js.map",
-    "index.html": "nnathanielMTucker.github.io/index.html",
-    "precache-manifest.5f51323b3b828d6e0ac1e4e004e32bbe.js": "nnathanielMTucker.github.io/precache-manifest.5f51323b3b828d6e0ac1e4e004e32bbe.js",
-    "service-worker.js": "nnathanielMTucker.github.io/service-worker.js",
-    "static/css/main.bfff7fc3.chunk.css.map": "nnathanielMTucker.github.io/static/css/main.bfff7fc3.chunk.css.map",
-    "static/js/2.a77601b0.chunk.js.LICENSE": "nnathanielMTucker.github.io/static/js/2.a77601b0.chunk.js.LICENSE"
+    "main.css": "/house-sushi/static/css/main.bfff7fc3.chunk.css",
+    "main.js": "/house-sushi/static/js/main.89014383.chunk.js",
+    "main.js.map": "/house-sushi/static/js/main.89014383.chunk.js.map",
+    "runtime-main.js": "/house-sushi/static/js/runtime-main.b7085e27.js",
+    "runtime-main.js.map": "/house-sushi/static/js/runtime-main.b7085e27.js.map",
+    "static/js/2.a77601b0.chunk.js": "/house-sushi/static/js/2.a77601b0.chunk.js",
+    "static/js/2.a77601b0.chunk.js.map": "/house-sushi/static/js/2.a77601b0.chunk.js.map",
+    "index.html": "/house-sushi/index.html",
+    "precache-manifest.5a1f8e3600074ac51a66a91201841790.js": "/house-sushi/precache-manifest.5a1f8e3600074ac51a66a91201841790.js",
+    "service-worker.js": "/house-sushi/service-worker.js",
+    "static/css/main.bfff7fc3.chunk.css.map": "/house-sushi/static/css/main.bfff7fc3.chunk.css.map",
+    "static/js/2.a77601b0.chunk.js.LICENSE": "/house-sushi/static/js/2.a77601b0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.a165309c.js",
+    "static/js/runtime-main.b7085e27.js",
     "static/js/2.a77601b0.chunk.js",
     "static/css/main.bfff7fc3.chunk.css",
     "static/js/main.89014383.chunk.js"
