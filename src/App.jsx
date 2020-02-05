@@ -4,7 +4,7 @@ import './main.css';
 import Header from './Home/Home';
 import Contact from './Contact/Contact';
 import Menu from './Menu/Menu';
-import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import {HashRouter as Router, Switch, Route} from 'react-router-dom';
 
 class App extends React.Component {
   render(){
