@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "nathanielMTucker.github.io/static/css/main.bfff7fc3.chunk.css",
+    "main.js": "nathanielMTucker.github.io/static/js/main.fea5d38f.chunk.js",
+    "main.js.map": "nathanielMTucker.github.io/static/js/main.fea5d38f.chunk.js.map",
+    "runtime-main.js": "nathanielMTucker.github.io/static/js/runtime-main.9e5295f6.js",
+    "runtime-main.js.map": "nathanielMTucker.github.io/static/js/runtime-main.9e5295f6.js.map",
+    "static/js/2.6dea347e.chunk.js": "nathanielMTucker.github.io/static/js/2.6dea347e.chunk.js",
+    "static/js/2.6dea347e.chunk.js.map": "nathanielMTucker.github.io/static/js/2.6dea347e.chunk.js.map",
+    "index.html": "nathanielMTucker.github.io/index.html",
+    "precache-manifest.56e3bd4c7744441e5be94a993dd04dea.js": "nathanielMTucker.github.io/precache-manifest.56e3bd4c7744441e5be94a993dd04dea.js",
+    "service-worker.js": "nathanielMTucker.github.io/service-worker.js",
+    "static/css/main.bfff7fc3.chunk.css.map": "nathanielMTucker.github.io/static/css/main.bfff7fc3.chunk.css.map",
+    "static/js/2.6dea347e.chunk.js.LICENSE": "nathanielMTucker.github.io/static/js/2.6dea347e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5295f6.js",
+    "static/js/2.6dea347e.chunk.js",
+    "static/css/main.bfff7fc3.chunk.css",
+    "static/js/main.fea5d38f.chunk.js"
+  ]
+}
