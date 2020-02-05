@@ -1,9 +1,10 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 export default function Header(){
     return(
         <div className="logo">
-            <div className="break"></div>
+            <div className="break" />
             <div className="head">
                 <img src="./hs-logo.png" alt="house-sushi-logo"/>
             </div>
@@ -11,16 +12,19 @@ export default function Header(){
                 <span>
                     Traditional & Modern style sushi
                 </span>
-                <br/>
                 <span className="j">
                     Japanese Cuisine
                 </span>
             </div>
             <div className="menu">
-                <a href="google.com"><p>Food!</p></a>
+                <Link to="/menu">
+                    <p>Food!</p>
+                </Link>
             </div>
             <div className ="contact">
-            <a href="google.com"><p>Stop by!</p></a>
+                <Link to="/contact">
+                    <p>Stop by!</p>
+                </Link>
             </div>
         </div>
     );
