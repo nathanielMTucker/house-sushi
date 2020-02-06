@@ -18,6 +18,7 @@ a {
       grid-template-columns: 1fr 1.4fr 1fr;
       grid-template-areas: "left logo right";
   width: 100vw;
+  height: 100vh;
 }
 
 .break {
@@ -38,7 +39,7 @@ a {
   grid-column: 2;
   grid-area: contact;
   margin-left: 243px;
-  width: 78.233px;
+  width: 27%;
 }
 
 .head {
@@ -90,10 +91,11 @@ a {
 
 .logo p {
   color: white;
-  font-size: large;
+  font-size: 125%;
   /* height: 100%; */
   border-left: 2px solid #DF3A29;
   left: 15%;
+  padding-left: .25em;
 }
 
 .menu {
@@ -133,14 +135,14 @@ a {
 }
 
 .v1 {
-  height: 100vh;
+  height: 100%;
   width: 2px;
   background-color: #DF3A29;
   margin: auto;
 }
 
 .v2 {
-  height: 100vh;
+  height: 100%;
   width: 2px;
   background-color: #DF3A29;
   margin: auto;
@@ -171,7 +173,7 @@ a {
 }
 
 .panel img {
-  height: 95%;
+  height: 27vh;
   position: relative;
   top: 5%;
   left: 5%
@@ -297,7 +299,16 @@ a {
   grid-area: items;
   background: #333333;
   overflow-y: scroll;
-  overflow-x: hidden;
+  height: 89.4vh;
+}
+.index-cards{
+  background: #B4AEAE;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 90%;
+  border-radius: 5px;
+  height: 15%;
+  margin: 4% 0 2% 4.5%;
 }
 /*----------------------------------------------------------------------------*/
 /*# sourceMappingURL=main.css.map */
