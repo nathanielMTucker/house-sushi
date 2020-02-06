@@ -305,10 +305,13 @@ a {
   background: #B4AEAE;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  width: 90%;
+  width: 14.75vw;
   border-radius: 5px;
-  height: 15%;
+  
   margin: 4% 0 2% 4.5%;
+}
+.index-cards img{
+  height: 234px;
 }
 /*----------------------------------------------------------------------------*/
 /*# sourceMappingURL=main.css.map */

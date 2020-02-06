@@ -101,6 +101,13 @@ let catagories = [
 ];
  let Salads = [
 
+    {
+        key : 0,
+        title : "House Salad",
+        img : "",
+        price : "$4.00"
+    }
+
  ];
  let Specials = [
 

@@ -11,6 +11,7 @@ export default function IndCards(props){
                         <section className="index-cards">
                          
                             <h1>{items.title}</h1>
+                            <img src="sushi.jpg" alt="sushi"></img>
                             <p>{items.price}</p>
                         </section>);
                 }
