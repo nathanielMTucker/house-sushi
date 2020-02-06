@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/house-sushi/static/css/main.cec3d94e.chunk.css",
-    "main.js": "/house-sushi/static/js/main.7535b954.chunk.js",
-    "main.js.map": "/house-sushi/static/js/main.7535b954.chunk.js.map",
+    "main.js": "/house-sushi/static/js/main.9d2aa219.chunk.js",
+    "main.js.map": "/house-sushi/static/js/main.9d2aa219.chunk.js.map",
     "runtime-main.js": "/house-sushi/static/js/runtime-main.b7085e27.js",
     "runtime-main.js.map": "/house-sushi/static/js/runtime-main.b7085e27.js.map",
-    "static/js/2.4bb8b209.chunk.js": "/house-sushi/static/js/2.4bb8b209.chunk.js",
-    "static/js/2.4bb8b209.chunk.js.map": "/house-sushi/static/js/2.4bb8b209.chunk.js.map",
+    "static/js/2.dd6ffdf2.chunk.js": "/house-sushi/static/js/2.dd6ffdf2.chunk.js",
+    "static/js/2.dd6ffdf2.chunk.js.map": "/house-sushi/static/js/2.dd6ffdf2.chunk.js.map",
     "index.html": "/house-sushi/index.html",
-    "precache-manifest.44c7af8ecaa16db7759d119ae3caf8db.js": "/house-sushi/precache-manifest.44c7af8ecaa16db7759d119ae3caf8db.js",
+    "precache-manifest.340296c456ac006f9908e0f4a4ff84fc.js": "/house-sushi/precache-manifest.340296c456ac006f9908e0f4a4ff84fc.js",
     "service-worker.js": "/house-sushi/service-worker.js",
-    "static/css/main.cec3d94e.chunk.css.map": "/house-sushi/static/css/main.cec3d94e.chunk.css.map",
-    "static/js/2.4bb8b209.chunk.js.LICENSE": "/house-sushi/static/js/2.4bb8b209.chunk.js.LICENSE"
+    "static/js/2.dd6ffdf2.chunk.js.LICENSE": "/house-sushi/static/js/2.dd6ffdf2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b7085e27.js",
-    "static/js/2.4bb8b209.chunk.js",
-    "static/css/main.cec3d94e.chunk.css",
-    "static/js/main.7535b954.chunk.js"
+    "static/js/2.dd6ffdf2.chunk.js",
+    "static/js/main.9d2aa219.chunk.js"
   ]
 }
