@@ -4,7 +4,9 @@
   margin: 0;
   padding: 0;
 }
-
+html{
+  scroll-behavior: smooth;
+}
 /*--------------------------------------Home----------------------------------*/
 a {
   text-decoration: none;
@@ -286,7 +288,7 @@ a {
   border-radius: 5px;
   height: 15%;
   margin: 4% 0 2% 4.5%;
- 
+  cursor: pointer;
 }
 .text
 {
@@ -300,6 +302,7 @@ a {
   background: #333333;
   overflow-y: scroll;
   height: 89.4vh;
+  
 }
 .index-cards{
   background: #B4AEAE;
@@ -308,8 +311,13 @@ a {
   width: 14.75vw;
   border-radius: 5px;
   
+  
   margin: 4% 0 2% 4.5%;
 }
+.aa{
+  display: flex;
+}
+
 .index-cards img{
   height: 234px;
 }
