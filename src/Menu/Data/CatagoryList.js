@@ -1,12 +1,10 @@
 
 let catagories = [
-    "Entrees",
-    "Salads",
     "Appitizers",
-    "Specials",
+    "Salads",
+    "Entrees",
     "Sushi",
     "Sashimi",
-    "Drinks",
     "Tempura",
     "Yakisoba/Yakiudon",
     "Udon Soup",
@@ -17,6 +15,7 @@ let catagories = [
     "House Sashimi",
     "House Specialty Rolls",
     "Desserts",
+    "Drinks",
     "Beer",
     "Sake Bomb Special",
     "Sake",
@@ -97,6 +96,54 @@ let catagories = [
         title : "Gyoza/Potstickers",
         img : "",
         price : "$5.00"
+    },
+    {
+        key : 0,
+        title : "Hiyayakko",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Potato Croquette",
+        img : "",
+        price : "$5.50"
+    },
+    {
+        key : 0,
+        title : "Takoyaki",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Salmon Kama",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Yellowtail Kama",
+        img : "",
+        price : "$10.00"
+    },
+    {
+        key : 0,
+        title : "Green Mussels",
+        img : "",
+        price : "$7.50"
+    },
+    {
+        key : 0,
+        title : "Beef Nigiri",
+        img : "",
+        price : "$8.00"
+    },
+    {
+        key : 0,
+        title : "Chicken Karage",
+        img : "",
+        price : "$8.50"
     }
 ];
  let Salads = [
@@ -106,12 +153,46 @@ let catagories = [
         title : "House Salad",
         img : "",
         price : "$4.00"
+    },
+    {
+        key : 0,
+        title : "Sunomono",
+        img : "",
+        price : "$5.50"
+    },
+    {
+        key : 0,
+        title : "Seaweed Salad",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Tako Salad",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Ika Salad",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Avocado Salad",
+        img : "",
+        price : "$7.50"
+    },
+    {
+        key : 0,
+        title : "Salmon Skin Salad",
+        img : "",
+        price : "$8.00"
     }
 
  ];
- let Specials = [
-
- ];
+ 
  let Sushi = [
 
  ];
@@ -122,22 +203,262 @@ let catagories = [
 
  ];
  let Tempura = [
-
+    {
+        key : 0,
+        title : "Shrimp",
+        img : "",
+        price : "$7.00"
+    },
+    {
+        key : 0,
+        title : "Vegetable",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Shrimp & Vegetables",
+        img : "",
+        price : "$7.50"
+    },
+    {
+        key : 0,
+        title : "Calamari",
+        img : "",
+        price : "$8.00"
+    },
+    {
+        key : 0,
+        title : "Shrimp Cracker",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Jalapeno Crab Popper",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Agedashi Tofu",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Popcorn Scallop",
+        img : "",
+        price : "$7.00"
+    },
+    {
+        key : 0,
+        title : "Softshell Crab",
+        img : "",
+        price : "$7.50"
+    },
  ];
  let Yaki = [
-
+    {
+        key : 0,
+        title : "Vegetable",
+        img : "",
+        price : "$10.00"
+    },
+    {
+        key : 0,
+        title : "Chicken",
+        img : "",
+        price : "$12.00"
+    },
+    {
+        key : 0,
+        title : "Beef",
+        img : "",
+        price : "$12.50"
+    },
+    {
+        key : 0,
+        title : "Seafood",
+        img : "",
+        price : "$13.50"
+    },
  ];
  let UdonSoup = [
-
+    {
+        key : 0,
+        title : "Kake",
+        img : "",
+        price : "$9.00"
+    },
+    {
+        key : 0,
+        title : "Shrimp Tempura",
+        img : "",
+        price : "$12.00"
+    },
+    {
+        key : 0,
+        title : "Chicken",
+        img : "",
+        price : "$11.00"
+    },
+    {
+        key : 0,
+        title : "Seafood",
+        img : "",
+        price : "$12.50"
+    },
  ];
  let FriedRice = [
-
+    {
+        key : 0,
+        title : "Vegetable",
+        img : "",
+        price : "$10.00"
+    },
+    {
+        key : 0,
+        title : "Chicken",
+        img : "",
+        price : "$12.00"
+    },
+    {
+        key : 0,
+        title : "Beef",
+        img : "",
+        price : "$12.50"
+    },
+    {
+        key : 0,
+        title : "Seafood",
+        img : "",
+        price : "$13.50"
+    },
  ];
  let ZaruSoba = [
-
+    {
+        key : 0,
+        title : "Zaru Soba",
+        img : "",
+        price : "$9.00"
+    },
  ];
  let Handroll = [
-
+    {
+        key : 0,
+        title : "California",
+        img : "",
+        price : "$5.50"
+    },
+    {
+        key : 0,
+        title : "Cali Crunch",
+        img : "",
+        price : "$7.00"
+    },
+    {
+        key : 0,
+        title : "Spicy California",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Tuna",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Salmon",
+        img : "",
+        price : "$6.00"
+    },
+    {
+        key : 0,
+        title : "Yellowtail",
+        img : "",
+        price : "$7.50"
+    },
+    {
+        key : 0,
+        title : "Cucumber",
+        img : "",
+        price : "$4.50"
+    },
+    {
+        key : 0,
+        title : "Avocado",
+        img : "",
+        price : "$4.50"
+    },
+    {
+        key : 0,
+        title : "Cuvocado",
+        img : "",
+        price : "$5.50"
+    },
+    {
+        key : 0,
+        title : "Tamago",
+        img : "",
+        price : "$5.00"
+    },
+    {
+        key : 0,
+        title : "Spicy Tuna",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Spicy Salmon",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Philly",
+        img : "",
+        price : "$7.00"
+    },
+    {
+        key : 0,
+        title : "Alaskan",
+        img : "",
+        price : "$6.50"
+    },
+    {
+        key : 0,
+        title : "Eel & Cucumber",
+        img : "",
+        price : "$8.00"
+    },
+    {
+        key : 0,
+        title : "Eel & Avocado",
+        img : "",
+        price : "$8.00"
+    },
+    {
+        key : 0,
+        title : "Shrimp Tempura",
+        img : "",
+        price : "$8.50"
+    },
+    {
+        key : 0,
+        title : "Salmon Skin",
+        img : "",
+        price : "$7.50"
+    },
+    {
+        key : 0,
+        title : "Veggie",
+        img : "",
+        price : "$6.50"
+    },
  ];
  let Nagiri = [
 
@@ -175,13 +496,11 @@ let catagories = [
 
  ];
 let linker = {
-    "Entrees"               : Entrees,
-    "Salads"                : Salads,
     "Appitizers"            : Appitizers,
-    "Specials"              : Specials,
+    "Salads"                : Salads,
+    "Entrees"               : Entrees,
     "Sushi"                 : Sushi,
     "Sashimi"               : Sashimi,
-    "Drinks"                : Drinks,
     "Tempura"               : Tempura,
     "Yakisoba/Yakiudon"     : Yaki,
     "Udon Soup"             : UdonSoup,
@@ -192,6 +511,7 @@ let linker = {
     "House Sashimi"         : HouseSashimi,
     "House Specialty Rolls" : HouseSpecialty,
     "Desserts"              : Desserts,
+    "Drinks"                : Drinks,
     "Beer"                  : Beer,
     "Sake Bomb Special"     : SakeBomb,
     "Sake"                  : Sake,
