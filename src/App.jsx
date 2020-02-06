@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './main.css';
+// import '../public/main.css';
 import Header from './Home/Home';
 import Contact from './Contact/Contact';
 import Menu from './Menu/Menu';

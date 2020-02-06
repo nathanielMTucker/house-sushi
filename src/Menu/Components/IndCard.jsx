@@ -1,8 +1,6 @@
 import React from 'react';
-import {catagories, linker} from '../Data/CatagoryList';
-function dido(props){
-    
-}
+import {linker} from '../Data/CatagoryList';
+
 
 export default function IndCards(props){
     return(
