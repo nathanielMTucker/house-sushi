@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/house-sushi/static/js/main.90f918f2.chunk.js",
-    "main.js.map": "/house-sushi/static/js/main.90f918f2.chunk.js.map",
+    "main.js": "/house-sushi/static/js/main.d86b9d6f.chunk.js",
+    "main.js.map": "/house-sushi/static/js/main.d86b9d6f.chunk.js.map",
     "runtime-main.js": "/house-sushi/static/js/runtime-main.b7085e27.js",
     "runtime-main.js.map": "/house-sushi/static/js/runtime-main.b7085e27.js.map",
     "static/js/2.dd6ffdf2.chunk.js": "/house-sushi/static/js/2.dd6ffdf2.chunk.js",
     "static/js/2.dd6ffdf2.chunk.js.map": "/house-sushi/static/js/2.dd6ffdf2.chunk.js.map",
     "index.html": "/house-sushi/index.html",
-    "precache-manifest.b107c1747de74040cb44b84e30dbcb6d.js": "/house-sushi/precache-manifest.b107c1747de74040cb44b84e30dbcb6d.js",
+    "precache-manifest.60b1c452f3cc073e9354a1019881c750.js": "/house-sushi/precache-manifest.60b1c452f3cc073e9354a1019881c750.js",
     "service-worker.js": "/house-sushi/service-worker.js",
     "static/js/2.dd6ffdf2.chunk.js.LICENSE": "/house-sushi/static/js/2.dd6ffdf2.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b7085e27.js",
     "static/js/2.dd6ffdf2.chunk.js",
-    "static/js/main.90f918f2.chunk.js"
+    "static/js/main.d86b9d6f.chunk.js"
   ]
 }

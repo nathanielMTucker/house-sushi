@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6abc05f8de07dd6dc8136b25316bdc6c",
+    "revision": "a77c986164797c0fe3daa1ebaa9878cd",
     "url": "/house-sushi/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/house-sushi/static/js/2.dd6ffdf2.chunk.js.LICENSE"
   },
   {
-    "revision": "ea3cba6d45670896715d",
-    "url": "/house-sushi/static/js/main.90f918f2.chunk.js"
+    "revision": "96cad7e5c207e7cc12b5",
+    "url": "/house-sushi/static/js/main.d86b9d6f.chunk.js"
   },
   {
     "revision": "874fe2211cd32078f0cd",
