@@ -3,9 +3,12 @@ import IndCards from './IndCard';
 import {catagories} from '../Data/CatagoryList';
 function ItemCards(props){
     return (
-            <div className="aa" id={props.item}>
+            <div className="bb" id={props.item}>
                 <h1 className="h">{props.item}</h1>
-                <IndCards item={props.item}/>
+                <div className="aa">
+                    <IndCards item={props.item}/>
+                </div>
+                
             </div>
     );
 }

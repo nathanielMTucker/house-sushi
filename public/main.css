@@ -302,7 +302,7 @@ a {
   background: #333333;
   overflow-y: scroll;
   height: 89.4vh;
-  
+  display: block;
 }
 .index-cards{
   background: #B4AEAE;
@@ -316,10 +316,23 @@ a {
 }
 .aa{
   display: flex;
+  width: 77%;
+  flex-wrap: wrap;
+  padding-left: 7%;
+  overflow-x: hidden;
 }
-
+.bb{
+  display: block;
+  margin-top: 4%;
+}
 .index-cards img{
   height: 234px;
+}
+.h{
+  color: white;
+  margin: 0 43%;
+  font-family: 'Adamina', serif;
+  width:50%;
 }
 /*----------------------------------------------------------------------------*/
 /*# sourceMappingURL=main.css.map */
