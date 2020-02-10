@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/house-sushi/precache-manifest.60b1c452f3cc073e9354a1019881c750.js"
+  "/house-sushi/precache-manifest.df97c37576735d75d90e1a21903a3dbd.js"
 );
 
 self.addEventListener('message', (event) => {
