@@ -8,6 +8,7 @@ export default function Home(){
             <LeftBar/>
             <Header/>
             <RightBar/>
+            
         </div>
     );
 }

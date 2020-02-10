@@ -15,7 +15,7 @@ function ItemCards(props){
 var i = 0;
 export default function Items(){
     return(
-        <section className="items">
+        <section id="items">
         
             {catagories.map((item) => {
                return (
