@@ -11,12 +11,15 @@ export default class CatCards extends Component {
 
         }
         this.event = this.event.bind(this);
+        this.ref = React.createRef();
     }
     event(item){
-        console.log(document.getElementById(item));
         var e = document.getElementById(item);
-        var y = e.getBoundingClientRect();
-        document.getElementById('items').scrollTo(0, y.top);
+        console.log(e, e.offsetTop);
+        var d = document.getElementById('items');
+        console.log(d);
+        e.scrollIntoView({behavior: "smooth"});
+        
     }
     render() {
         return (
@@ -24,9 +27,8 @@ export default class CatCards extends Component {
                 (item) => 
                 {  
                     return(
-                        
-                        <section key = {i++} className="catagory-cards">
-                            <div className="text" onClick={() => this.event(item)}>{item}</div>
+                        <section key = {i++} className="catagory-cards" onClick={() => this.event(item)}>
+                            <div ref className="text" >{item}</div>
                         </section>
                     )
                 }
