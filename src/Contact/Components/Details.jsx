@@ -16,7 +16,7 @@ export default function Details(){
             <p>(Last call is 15 minutes before closing)</p>
             <p>Monday – Thursday: 11:00 – 10:00 PM</p>
             <p>Friday – Saturday:   11:00 – 11:00 PM</p>
-            <p>Sundays:            12:00 –  9:00 PM</p>
+            <p>Sunday:            12:00 –  9:00 PM</p>
             </pre>
         </aside>
     );
